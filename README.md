@@ -1,7 +1,5 @@
-# image-processing-project
+# Image Processing project
 
-Thạc sĩ Trần Tiến Đức
-
-
+GVHD: Thạc sĩ Trần Tiến Đức
 
 Thư viện: OpenCV, CVZone, medianpipe, Yolo5, Yolo4,....
